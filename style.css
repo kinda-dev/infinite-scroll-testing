@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: darkgoldenrod;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+
+}
+
+#container {    
+    background-color: white;
+    border: 2px solid crimson;
+    overflow-y: scroll;
+}
