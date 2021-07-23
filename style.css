@@ -13,4 +13,9 @@ body {
     background-color: white;
     border: 2px solid crimson;
     overflow-y: scroll;
+    max-height: 50vh;
+}
+
+.entry {
+    height: 20vh;
 }
