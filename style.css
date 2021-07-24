@@ -3,6 +3,7 @@ body {
     width: 100vw;
     background-color: darkgoldenrod;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     overflow: hidden;
